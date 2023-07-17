@@ -8,7 +8,7 @@ A Heroku deployed application designed for people to blog, mostly about technolo
 
 [Heroku Application](https://aqueous-wave-99817-f8310cd24d7c.herokuapp.com/)
 
-![Website Preview]()
+![Website Preview](./public/images/website-preview.jpg)
 
 ## Built With
 

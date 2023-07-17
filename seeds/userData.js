@@ -15,7 +15,7 @@ const userData = [
   {
     username: "Dragon",
     email: "tinmother@pho.com",
-    password: "notAn41",
+    password: "notAn41!",
   },
   {
     username: "XxVoid_CowboyxX",
@@ -25,7 +25,7 @@ const userData = [
   {
     username: "All-Seeing Eye",
     email: "tattletalel@example.com",
-    password: "n3wN4m3",
+    password: "n3wN4m3@",
   },
 
 ];
