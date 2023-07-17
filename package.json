@@ -28,6 +28,6 @@
     "express-session": "^1.17.1",
     "handlebars": "^4.7.6",
     "mysql2": "^2.3.3",
-    "sequelize": "^6.29.3"
+    "sequelize": "^6.32.1"
   }
 }

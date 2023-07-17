@@ -17,13 +17,13 @@ const postData = [
     user_id: 3,
   },
   {
-    title: "Fourth Blog Post",
-    content: "This is the content of the fourth blog post.",
+    title: "Console vs PC",
+    content: "Let me be completely honest, its PC MasterRace all the way, but I kinda just want to see y'all rage over this.",
     user_id: 4,
   },
   {
-    title: "Fifth Blog Post",
-    content: "This is the content of the fifth blog post.",
+    title: "Thank You 2k for making BioShock Infinite",
+    content: "This thread is a dedicated thanks you for the creation of Bioshock Infinite, whose legacy is several breakthoughs in 3D animations. Without this game's main character, Elizabeth, and all the horny degerate netizens wanting to make lewd videos of her, we would not have the amazing 3d animation and rendering technology and programs of today.",
     user_id: 5,
   }
 ];
